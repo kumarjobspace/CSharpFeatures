@@ -1,0 +1,6 @@
+Y:\WorkSpace\5. Learning\Projects\CSharpFeatures\CSharpV5\bin\Debug\CSharpV5.exe.config
+Y:\WorkSpace\5. Learning\Projects\CSharpFeatures\CSharpV5\bin\Debug\CSharpV5.exe
+Y:\WorkSpace\5. Learning\Projects\CSharpFeatures\CSharpV5\bin\Debug\CSharpV5.pdb
+Y:\WorkSpace\5. Learning\Projects\CSharpFeatures\CSharpV5\obj\Debug\CSharpV5.csprojResolveAssemblyReference.cache
+Y:\WorkSpace\5. Learning\Projects\CSharpFeatures\CSharpV5\obj\Debug\CSharpV5.exe
+Y:\WorkSpace\5. Learning\Projects\CSharpFeatures\CSharpV5\obj\Debug\CSharpV5.pdb
