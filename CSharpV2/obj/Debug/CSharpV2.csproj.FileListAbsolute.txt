@@ -1,0 +1,6 @@
+Y:\WorkSpace\5. Learning\1. Projects\CSharpFeatures\CSharpV2\bin\Debug\CSharpV2.exe.config
+Y:\WorkSpace\5. Learning\1. Projects\CSharpFeatures\CSharpV2\bin\Debug\CSharpV2.exe
+Y:\WorkSpace\5. Learning\1. Projects\CSharpFeatures\CSharpV2\bin\Debug\CSharpV2.pdb
+Y:\WorkSpace\5. Learning\1. Projects\CSharpFeatures\CSharpV2\obj\Debug\CSharpV2.csprojResolveAssemblyReference.cache
+Y:\WorkSpace\5. Learning\1. Projects\CSharpFeatures\CSharpV2\obj\Debug\CSharpV2.exe
+Y:\WorkSpace\5. Learning\1. Projects\CSharpFeatures\CSharpV2\obj\Debug\CSharpV2.pdb
